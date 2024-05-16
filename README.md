@@ -31,11 +31,11 @@ A simple word guessing game implemented in Python. Players guess letters in a wo
 - Displaying the current state of the word and missed guesses
 - Determining if the player has won or lost
 
-# Binary Search Tree Map Implementation
+## Binary Search Tree Map Implementation
 
 This project implements a binary search tree (BST) map in Python, providing an efficient way to store and retrieve key-value pairs. The BST map supports standard map operations, including insertion, deletion, and lookup, with additional functionality for tree traversal and finding the ith smallest element.
 
-## Features
+### Features
 
 - **Insertion:** Add a key-value pair to the BST.
 - **Deletion:** Remove a key-value pair from the BST.
@@ -43,7 +43,7 @@ This project implements a binary search tree (BST) map in Python, providing an e
 - **Traversal:** Perform an in-order traversal of the BST.
 - **Find ith Smallest:** Find the ith smallest key in the BST.
 
-## Class Structure
+### Class Structure
 
 ### `BinarySearchTreeMap`
 This is the main class representing the binary search tree map.

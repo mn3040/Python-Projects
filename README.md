@@ -1,6 +1,6 @@
 # Python Implementations
 
-This repository contains several implementations of popular games and data structures, including Blackjack, Tic-Tac-Toe, Guessing Game, Binary Search Tree Map, Conway's Game of Life, and Hydrocarbon Vector Management.
+This repository contains several implementations of popular games and data structures, including Blackjack, Tic-Tac-Toe, Guessing Game, Binary Search Tree Map.
 
 ## Blackjack
 
